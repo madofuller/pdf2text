@@ -35,30 +35,30 @@ output_folder_path = StringVar()
 output_folder_path.set("Nothing")
 
 def open_file():
-   global file_source
-   file = fd.askopenfilenames(parent=win, title='Choose a File')
-   print(type(file))
-   print(f"fsource= {file_source.get()}")
-   file_source.set(file[0])
-   print(f"updating folder source to {file}")
-   file_name = file_source.get().split('/')[-1][:-4]
-   print(f"file name: {file_name}")
+	global file_source
+	file = fd.askopenfilenames(parent=win, title='Choose a File')
+	print(type(file))
+	print(f"fsource= {file_source.get()}")
+	file_source.set(file[0])
+	print(f"updating folder source to {file}")
+	file_name = file_source.get().split('/')[-1][:-4]
+	print(f"file name: {file_name}")
 
 def open_folder():
-   global folder_source
-   folder = filedialog.askdirectory(parent=win, title='Choose a Folder')
-   print(type(folder))
-   print(f"fsource= {folder_source.get()}")
-   folder_source.set(folder)
-   print(f"updating folder source to {folder}")
+	global folder_source
+	folder = filedialog.askdirectory(parent=win, title='Choose a Folder')
+	print(type(folder))
+	print(f"fsource= {folder_source.get()}")
+	folder_source.set(folder)
+	print(f"updating folder source to {folder}")
 
 def create_folder():
-   global output_folder_path
-   output = fd.askdirectory(parent=win, title='Ouput files in this folder')
-   print(type(output))
-   print(f"fsource= {output_folder_path.get()}")
-   output_folder_path.set(output)
-   print(f"updating output folder to {output}")
+	global output_folder_path
+	output = fd.askdirectory(parent=win, title='Ouput files in this folder')
+	print(type(output))
+	print(f"fsource= {output_folder_path.get()}")
+	output_folder_path.set(output)
+	print(f"updating output folder to {output}")
 
 
 #Label widget

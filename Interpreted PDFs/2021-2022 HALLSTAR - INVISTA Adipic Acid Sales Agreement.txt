@@ -1,0 +1,433 @@
+AMENDMENT NO, 3
+TO
+ADI-PURE® ADIPIC ACID SALES AGREEMENT
+
+This Amendment No. 3 (this “Amendment_No. 3”) to the Adi-pure® Adipic Acid Sales
+Agreement is made and entered as of January 1, 2021, by and among INV Nylon Chemicals Americas,
+LLC (“Seller” or “INVISTA”) and Hallstar Industrial Solutions Company (“Buyer” or “Hallstar”).
+
+ 
+
+A. Seller and Buyer are parties to that certain Purchase Agreement for Raw Materials, made
+and entered into as of January 1, 2014 (the “Sales Agreement”); and
+
+B. Seller and Buyer desire to amend the Sales Agreement.
+NOW THEREFORE, Seller and Buyer hereby amend the Agreement as follows:
+
+l. Amendment of Buyer. All references of Buyer as The HallStar Company are hereby
+deleted and replaced by Hallstar Industrial Solution Company. For avoidance of doubt,
+Hallstar Industrial Solutions Company is the Buyer for the Contract Term, and as such
+Hallstar Industrial Solutions Company assumes all responsibilities and obligations herein.
+
+2. Amendment of Seller. All references of Seller as INVISTA S.a.r.l. are hereby deleted and
+replaced by INV Nylon Chemicals Americas, LLC. For avoidance of doubt, INV Nylon
+Chemicals Americas, LLC is the Seller for the Contract Term, and as such INV Nylon
+Chemicals Americas, LLC assumes all responsibilities and obligations herein.
+
+3. Amendment of Section | (Contract Term). Section | of the Sales Agreement is hereby
+
+deleted and replaced in its entirety as follows:
+
+“The term of this Agreement commences on January I, 2014 and will
+continue up to and including December 31, 2022 (the “Term”). The Parties
+may extend this agreement for additional 24 month Terms (the “Renewal
+Terms”), by either party providing to the other party, no later than sixty (60)
+days before the expiry of the then-current Term, written notice of that Party’s
+desire to extend the term of the Agreement, which is subject to the other
+Party’s written agreement, due no later than fourteen (14) days after receipt of
+the extension notice. Together, the initial Contract Term and any Renewal
+Terms, if exercised by the parties, is referred to as the “Term.”
+
+4, Amendment of Section 4 (Quantity). Section 4, subsections (a) and (b) of the Sales
+
+Agreement are hereby amended as follows:
+(a) During the Term, Buyer shall order and purchase from Seller at least the
+minimum quantities of Product as set forth below:
+a. Minimum Annual Quantity: 4,500 tons
+b. Minimum Monthly Quantity: 360 tons
+
+(b) Seller will not be obligated to sell or deliver to Buyer any quantity of
+Product in excess of the maximum quantities set forth below:
+
+a. Maximum Annual Quantity: 6,000 tons
+b. Maximum Monthly Quantity: 550 tons
+c. Maximum Annual Quantity of Bagged Product: 750 tons
+
+Minimum Annual Contract Maximum Annual
+Quantity Contract Quantity
+Adi-pure® Adipic Acid 4,500 Metric Tons 6,000 Metric Tons
+
+5. Amendment of Buyer’s Facility. Section of the Sales Agreement relating to Buyer’s
+Facility is hereby deleted and replaced in its entirety as follows:
+
+          
+
+     
+
+“Production Location for Product is Seller’s facility in Victoria, Texas.
+Shipping location for railcar deliveries is Selter’s facility in Victoria, Texas.
+Shipping locations for bulk truck and bagged deliveries are Bulkmatic
+Transport facilities in Morrisville, PA, Chicago Heights, IL, any other facility
+at Seller’s election. At any time during the Term of this Agreement, Seller
+reserves the right to fulfill any requirements contained in this Agreement
+through a third-party packager of Seller’s choosing. Seller will work with
+Buyer to define any new terms of service applicable to such transition.”
+
+6. Amendment of Payment Terms. Section of the Sales Agreement relating to Payment
+Terms 1s hereby deleted and replaced in its entirety as follows:
+
+“Payments are due net forty-five (45) days, via wire transfer in immediately
+available funds, from the date of Seller’s invoice.”
+
+7. Amendment of Delivery Terms. Section of the Sales Agreement relating to Delivery
+Terms is hereby deleted and replaced in its entirety as follows:
+
+“Deliveries of Product shall be made in full railears or full truck load
+quantities (minimum 20 metric tons for shipments in butk hopper trucks).
+
+Railcars will be delivered DAP (INCOTERMS 2010) Buyer’s facility.
+
+Bulk Shipments will be delivered DAP (INCOTERMS 2010) Buyer’s
+Facility,
+
+Packaged Shipments will be delivered FCA (INCOTERMS 2010) Buyer’s
+Facility.”
+
+8. Amendment of Appendix II (Product Pricing). Appendix II of the Sales Agreement is
+
+hereby deleted and replaced as follows:
+
+(a) Price: The Selling Price (P) for Product will be determined each calendar
+month, with a pricing sheet accompanying the monthly price notification.
+The Selling Price will be determined using the following formula:
+
+P= Pec + 229 *(BZ) + 0.27 *(NH3+33) + 38 *(NG)
+
+Where:
+P = the Selling Price for Product in U.S. dollars per metric ton (rounded to
+the nearest whole $) for the current calendar month. For reference, Price
+may also be shown in US$ per Ib calculated by dividing selling price in
+US$ per metric ton by 2204.623 and rounding to the nearest two decimal
+places ($X.XX/'Ib).
+
+Pc =
+
+US$ 690 per metric ton for Full Truckloads of Bulk Hopper Trucks
+and Full Truckloads of SuperSacks
+
+US$ 605 per metric ton for Railcar shipments (DAP Buyer’s Facility
+in Bedford Park, IL)
+
+BZ = the U.S. monthly contract benzene price, in US dollars per gallon,
+as published in IHS Chemical (formerly CMAI) Aromatics Market
+Weekly for the month immediately preceding the current month, rounded
+to three decimal places.
+
+NH3 = the monthly average, rounded to two decimal places, of the
+weekly Caribbean, fob, ammonia prices for the month two months prior
+to the month product is shipped, for each week that falls within the
+relevant calendar month, as published in the weekly “FERTECON
+AMMONIA REPORT”, under the headings, “FERTECON PRICE
+SERVICE”, “AMMONIA PRICE INDICATIONS”, “FOB PRICES”,
+“CARIBBEAN”, expressed in US$ per metric ton for anhydrous
+ammonia. If a range of prices is published for a given week, then an
+arithmetic average of the low and high prices (unrounded) shall be used.
+If a price is not published for a given week within the relevant calendar
+month then the previous week’s price shall be used.
+
+NG = The unrounded NYMEX Henry Hub natural gas futures
+closing price on the contract settlement date, as expressed in US$
+per MMBtu, for the month Product is shipped.
+
+(b) Ifthe benzene, natural gas and/or ammonia publications specify the price
+as a range, the reference price for adjusting the price for Product, will be
+the average of the high and low published prices.
+
+9, Licensed Use of Unloading Equipment: Subject to the terms and conditions of this
+Agreement, INVISTA hereby grants to Buyer, and Buyer hereby accepts a limited, nontransferable,
+
+nonexclusive, revocable, royalty-free license to use INVISTA-owned equipment as defined in Exhibit A
+for use in unloading or transloading Product purchased by Buyer from INVISTA under this Agreement
+(the “Leased Equipment”) during the Term of this Agreement. Buyer will use and protect the Leased
+Equipment in accordance with good industry standards and compliance with applicable laws, rules and
+regulations. Buyer may not, in whole or part, sublicense, assign, or otherwise transfer the rights granted
+hereunder. All rights not specifically granted to Buyer hereunder are reserved to INVISTA.
+Notwithstanding anything else in this Agreement, Buyer shall indemnify, defend, and hold INVISTA
+harmless from and against any and all claims, suits, obligations, actions, demands, proceedings, losses,
+risks, awards, settlements, judgments, liabilities, costs, expenses, and damages (including, without
+limitation, attorney’s fees and court costs, and any damage to the Leased Equipment regardless of how
+caused) directly or indirectly based on, arising from, or related to (a) any breach of Buyer’s obligations
+under this Agreement, (b) the sale or use of Products or the operations or business conducted by Buyer, or
+(c) Buyer’s use of the Leased Equipment.
+
+10. Certain Defined Terms: Capitalized terms used, but not otherwise defined in this
+Amendment No. 3, have the meanings ascribed to them in the Sales Agreement.
+
+11. Ratification and Authority: The Sales Agreement, as amended by this Amendment No. 3,
+is hereby ratified and, except as expressly modified by this Amendment No. 3, remains in full force and
+effect. Each of Seller and Buyer possesses all requisite corporate power and authority to enter into this
+Amendment No. 3 and ratify the Sales Agreement, as amended by this Amendment No. 3. The Sales
+Agreement and this Amendment No. 3 have been duly executed and delivered by each of Seller and
+Buyer.
+
+12. Governing Law_and Dispute Resolution: This Amendment No. 3 will be governed by
+and construed in accordance with Section 18 of the Terms and Conditions of Sale attached as Exhibit A of
+
+the Sales Agreement, and any dispute arising out of, relating to or in connection with this Amendment
+No. 3, including the breach, termination or validity hereof, will be resolved in accordance with Section 18
+of the Terms and Conditions of Sale attached as Exhibit A of the Sales Agreement.
+
+12. Counterparts and Electronic Copies: This Amendment No.3 may be executed in
+counterparts or duplicate originals, all of which will be regarded as one and the same instrument, and
+
+which will be the official and governing version in the interpretation of this Amendment No. 3. This
+Amendment No. 3 may be executed by facsimile signatures or signatures by electronic transmission, and
+such signatures will be deemed to bind each of Seller and Buyer as if they were original signatures.
+
+[Signature Page Follows]
+IN WITNESS WHEREOF, each of Seller and Buyer has caused this Amendment No.3 to be
+executed and delivered by its duly authorized representative as of the date first above written.
+
+Seller:
+
+INV Nylon Chemicals
+
+    
+
+By:
+
+ 
+
+Danitc oot:
+Title: Pury @t 2d G0 TORY
+
+Name:
+
+Buyer:
+
+Hallstar Industrial Solutions Company
+
+ar/ Cue war aoe
+
+By: fA bur
+Name: Carmen Masciantonio
+Title: President, Industrial Solutions
+
+ 
+AMENDMENT NO, 3
+TO
+ADI-PURE® ADIPIC ACID SALES AGREEMENT
+
+This Amendment No. 3 (this “Amendment_No. 3”) to the Adi-pure® Adipic Acid Sales
+Agreement is made and entered as of January 1, 2021, by and among INV Nylon Chemicals Americas,
+LLC (“Seller” or “INVISTA”) and Hallstar Industrial Solutions Company (“Buyer” or “Hallstar”).
+
+ 
+
+A. Seller and Buyer are parties to that certain Purchase Agreement for Raw Materials, made
+and entered into as of January 1, 2014 (the “Sales Agreement”); and
+
+B. Seller and Buyer desire to amend the Sales Agreement.
+NOW THEREFORE, Seller and Buyer hereby amend the Agreement as follows:
+
+l. Amendment of Buyer. All references of Buyer as The HallStar Company are hereby
+deleted and replaced by Hallstar Industrial Solution Company. For avoidance of doubt,
+Hallstar Industrial Solutions Company is the Buyer for the Contract Term, and as such
+Hallstar Industrial Solutions Company assumes all responsibilities and obligations herein.
+
+2. Amendment of Seller. All references of Seller as INVISTA S.a.r.l. are hereby deleted and
+replaced by INV Nylon Chemicals Americas, LLC. For avoidance of doubt, INV Nylon
+Chemicals Americas, LLC is the Seller for the Contract Term, and as such INV Nylon
+Chemicals Americas, LLC assumes all responsibilities and obligations herein.
+
+3. Amendment of Section | (Contract Term). Section | of the Sales Agreement is hereby
+
+deleted and replaced in its entirety as follows:
+
+“The term of this Agreement commences on January I, 2014 and will
+continue up to and including December 31, 2022 (the “Term”). The Parties
+may extend this agreement for additional 24 month Terms (the “Renewal
+Terms”), by either party providing to the other party, no later than sixty (60)
+days before the expiry of the then-current Term, written notice of that Party’s
+desire to extend the term of the Agreement, which is subject to the other
+Party’s written agreement, due no later than fourteen (14) days after receipt of
+the extension notice. Together, the initial Contract Term and any Renewal
+Terms, if exercised by the parties, is referred to as the “Term.”
+
+4, Amendment of Section 4 (Quantity). Section 4, subsections (a) and (b) of the Sales
+
+Agreement are hereby amended as follows:
+(a) During the Term, Buyer shall order and purchase from Seller at least the
+minimum quantities of Product as set forth below:
+a. Minimum Annual Quantity: 4,500 tons
+b. Minimum Monthly Quantity: 360 tons
+
+(b) Seller will not be obligated to sell or deliver to Buyer any quantity of
+Product in excess of the maximum quantities set forth below:
+
+a. Maximum Annual Quantity: 6,000 tons
+b. Maximum Monthly Quantity: 550 tons
+c. Maximum Annual Quantity of Bagged Product: 750 tons
+
+Minimum Annual Contract Maximum Annual
+Quantity Contract Quantity
+Adi-pure® Adipic Acid 4,500 Metric Tons 6,000 Metric Tons
+
+5. Amendment of Buyer’s Facility. Section of the Sales Agreement relating to Buyer’s
+Facility is hereby deleted and replaced in its entirety as follows:
+
+          
+
+     
+
+“Production Location for Product is Seller’s facility in Victoria, Texas.
+Shipping location for railcar deliveries is Selter’s facility in Victoria, Texas.
+Shipping locations for bulk truck and bagged deliveries are Bulkmatic
+Transport facilities in Morrisville, PA, Chicago Heights, IL, any other facility
+at Seller’s election. At any time during the Term of this Agreement, Seller
+reserves the right to fulfill any requirements contained in this Agreement
+through a third-party packager of Seller’s choosing. Seller will work with
+Buyer to define any new terms of service applicable to such transition.”
+
+6. Amendment of Payment Terms. Section of the Sales Agreement relating to Payment
+Terms 1s hereby deleted and replaced in its entirety as follows:
+
+“Payments are due net forty-five (45) days, via wire transfer in immediately
+available funds, from the date of Seller’s invoice.”
+
+7. Amendment of Delivery Terms. Section of the Sales Agreement relating to Delivery
+Terms is hereby deleted and replaced in its entirety as follows:
+
+“Deliveries of Product shall be made in full railears or full truck load
+quantities (minimum 20 metric tons for shipments in butk hopper trucks).
+
+Railcars will be delivered DAP (INCOTERMS 2010) Buyer’s facility.
+
+Bulk Shipments will be delivered DAP (INCOTERMS 2010) Buyer’s
+Facility,
+
+Packaged Shipments will be delivered FCA (INCOTERMS 2010) Buyer’s
+Facility.”
+
+8. Amendment of Appendix II (Product Pricing). Appendix II of the Sales Agreement is
+
+hereby deleted and replaced as follows:
+
+(a) Price: The Selling Price (P) for Product will be determined each calendar
+month, with a pricing sheet accompanying the monthly price notification.
+The Selling Price will be determined using the following formula:
+
+P= Pec + 229 *(BZ) + 0.27 *(NH3+33) + 38 *(NG)
+
+Where:
+P = the Selling Price for Product in U.S. dollars per metric ton (rounded to
+the nearest whole $) for the current calendar month. For reference, Price
+may also be shown in US$ per Ib calculated by dividing selling price in
+US$ per metric ton by 2204.623 and rounding to the nearest two decimal
+places ($X.XX/'Ib).
+
+Pc =
+
+US$ 690 per metric ton for Full Truckloads of Bulk Hopper Trucks
+and Full Truckloads of SuperSacks
+
+US$ 605 per metric ton for Railcar shipments (DAP Buyer’s Facility
+in Bedford Park, IL)
+
+BZ = the U.S. monthly contract benzene price, in US dollars per gallon,
+as published in IHS Chemical (formerly CMAI) Aromatics Market
+Weekly for the month immediately preceding the current month, rounded
+to three decimal places.
+
+NH3 = the monthly average, rounded to two decimal places, of the
+weekly Caribbean, fob, ammonia prices for the month two months prior
+to the month product is shipped, for each week that falls within the
+relevant calendar month, as published in the weekly “FERTECON
+AMMONIA REPORT”, under the headings, “FERTECON PRICE
+SERVICE”, “AMMONIA PRICE INDICATIONS”, “FOB PRICES”,
+“CARIBBEAN”, expressed in US$ per metric ton for anhydrous
+ammonia. If a range of prices is published for a given week, then an
+arithmetic average of the low and high prices (unrounded) shall be used.
+If a price is not published for a given week within the relevant calendar
+month then the previous week’s price shall be used.
+
+NG = The unrounded NYMEX Henry Hub natural gas futures
+closing price on the contract settlement date, as expressed in US$
+per MMBtu, for the month Product is shipped.
+
+(b) Ifthe benzene, natural gas and/or ammonia publications specify the price
+as a range, the reference price for adjusting the price for Product, will be
+the average of the high and low published prices.
+
+9, Licensed Use of Unloading Equipment: Subject to the terms and conditions of this
+Agreement, INVISTA hereby grants to Buyer, and Buyer hereby accepts a limited, nontransferable,
+
+nonexclusive, revocable, royalty-free license to use INVISTA-owned equipment as defined in Exhibit A
+for use in unloading or transloading Product purchased by Buyer from INVISTA under this Agreement
+(the “Leased Equipment”) during the Term of this Agreement. Buyer will use and protect the Leased
+Equipment in accordance with good industry standards and compliance with applicable laws, rules and
+regulations. Buyer may not, in whole or part, sublicense, assign, or otherwise transfer the rights granted
+hereunder. All rights not specifically granted to Buyer hereunder are reserved to INVISTA.
+Notwithstanding anything else in this Agreement, Buyer shall indemnify, defend, and hold INVISTA
+harmless from and against any and all claims, suits, obligations, actions, demands, proceedings, losses,
+risks, awards, settlements, judgments, liabilities, costs, expenses, and damages (including, without
+limitation, attorney’s fees and court costs, and any damage to the Leased Equipment regardless of how
+caused) directly or indirectly based on, arising from, or related to (a) any breach of Buyer’s obligations
+under this Agreement, (b) the sale or use of Products or the operations or business conducted by Buyer, or
+(c) Buyer’s use of the Leased Equipment.
+
+10. Certain Defined Terms: Capitalized terms used, but not otherwise defined in this
+Amendment No. 3, have the meanings ascribed to them in the Sales Agreement.
+
+11. Ratification and Authority: The Sales Agreement, as amended by this Amendment No. 3,
+is hereby ratified and, except as expressly modified by this Amendment No. 3, remains in full force and
+effect. Each of Seller and Buyer possesses all requisite corporate power and authority to enter into this
+Amendment No. 3 and ratify the Sales Agreement, as amended by this Amendment No. 3. The Sales
+Agreement and this Amendment No. 3 have been duly executed and delivered by each of Seller and
+Buyer.
+
+12. Governing Law_and Dispute Resolution: This Amendment No. 3 will be governed by
+and construed in accordance with Section 18 of the Terms and Conditions of Sale attached as Exhibit A of
+
+the Sales Agreement, and any dispute arising out of, relating to or in connection with this Amendment
+No. 3, including the breach, termination or validity hereof, will be resolved in accordance with Section 18
+of the Terms and Conditions of Sale attached as Exhibit A of the Sales Agreement.
+
+12. Counterparts and Electronic Copies: This Amendment No.3 may be executed in
+counterparts or duplicate originals, all of which will be regarded as one and the same instrument, and
+
+which will be the official and governing version in the interpretation of this Amendment No. 3. This
+Amendment No. 3 may be executed by facsimile signatures or signatures by electronic transmission, and
+such signatures will be deemed to bind each of Seller and Buyer as if they were original signatures.
+
+[Signature Page Follows]
+IN WITNESS WHEREOF, each of Seller and Buyer has caused this Amendment No.3 to be
+executed and delivered by its duly authorized representative as of the date first above written.
+
+Seller:
+
+INV Nylon Chemicals
+
+    
+
+By:
+
+ 
+
+Danitc oot:
+Title: Pury @t 2d G0 TORY
+
+Name:
+
+Buyer:
+
+Hallstar Industrial Solutions Company
+
+ar/ Cue war aoe
+
+By: fA bur
+Name: Carmen Masciantonio
+Title: President, Industrial Solutions
+
+ 
+

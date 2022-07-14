@@ -1,0 +1,193 @@
+DocuSign Envelope ID: D4D161EB-94C1-4D4F-9638-5231AD4BB3E0
+
+PRODUCT PURCHASE AND RESALE AGREEMENT
+
+This PRODUCT PURCHASE AND RESALE AGREEMENT (this “Agreement” is entered into as of July
+15, 2016 (the “Effective Date”), between INVISTA S. a r. I., (“INVISTA”) and The Chemical Company (“Buyer”).
+INVISTA and Buyer are each individually referred to as a “Party” and, together, as the “Parties.”
+
+L, Product. The product (“Product”) purchased by Buyer and sold by INVISTA under this Agreement
+is Adi-pure® Adipic Acid conforming to the specifications set forth in Exhibit A (the “Specifications”). Buyer shall
+consume all Product, provided that Buyer may resell the Product subject to and on the terms of this Agreement.
+
+2; Quantities.
+
+(a) Minimum Quantity. Buyer shall order and purchase from INVISTA during each Contract
+Year, a quantity of Product at least equal to the greater of (i) 4000 metric tons (“MT”) of Product and (ii) 80% of its
+requirements for adipic acid, either for consumption or resale (the “Minimum Annual Quantity”), provided any resale
+of Product is subject to the terms and conditions set forth herein. In addition, Buyer shall order and purchase from
+INVISTA the volume of Product required by Buyer to resell to INVISTA under Section 8(a) as the INVISTA RePurchase Quantity.
+
+(b) Maximum Quantities. INVISTA will have no liability for any failure to confirm, sell or
+deliver to Buyer in any Contract Year a quantity of Product exceeding 6000 MT of Product per Contract Year (the
+“Maximum Annual Quantity”). In addition INVISTA will have no liability for any failure to confirm, sell or deliver
+to Buyer in any month a quantity of Product exceeding the lesser of (x) six (6) full hopper railcars of Product per
+month or (y) 100% of the Month 2 forecasted quantity for the then Month 1 (the “Maximum Monthly Quantity”). In
+addition, Buyer will supply above the Maximum Monthly Quantity the volume of Product required by Buyer to resell
+
+to INVISTA under Section 8(a) as the INVISTA Re-Purchase Quantity.
+
+(c) Requested Excess Quantity. Buyer may request Product in amounts exceeding the
+Maximum Annual Quantity or Maximum Monthly Quantity (the “Requested Excess Quantity”), and INVISTA may
+elect (in its sole discretion and without any obligation) to sell and deliver the Requested Excess Quantity at the Price
+and on such terms set forth in this Agreement. If INVISTA elects not to supply to Buyer the Requested Excess
+Quantity then (i) INVISTA shall promptly notify Buyer, (ii) Buyer may purchase the Requested Excess Quantity from
+other sources, without penalty under this Agreement, and (iii) INVISTA shall credit the amount of the Requested
+Excess Quantity in MT toward Buyer’s 80% of its total requirement obligation under Section 2 of this Agreement.
+
+a INVISTA Facilities. INVISTA may source the Product to be sold under this Agreement from
+INVISTA’s manufacturing facility in Victoria, Texas (each, an “INVISTA Facility”).
+
+4. Delivery Terms.
+
+(a) Delivery Point. INVISTA shall deliver the Product DAP (Incoterms® 2010 to be used
+throughout this Agreement) to Packwell in La Porte, TX (the “Delivery Point”) in full bulk hopper cars.
+
+(b) Title and Risk of Loss. Title, together with risk of loss, damage and contamination, to
+Product will pass from INVISTA to Buyer upon delivery at the Delivery Point, in accordance with Section 4(a).
+
+(c) Other Delivery Matters. Buyer shall unload Product at the Delivery Point and promptly
+release all transportation equipment. The Parties shall cooperate to the extent needed to coordinate delivery dates and
+times. INVISTA does not guarantee specific delivery dates or times. INVISTA shall be solely liable for any
+demurrage arising out of the transportation, delivery, loading or storage of Product prior to delivery of the Product at
+the Delivery Point. Buyer shall be solely liable for any demurrage arising out of the transportation or storage of
+Product after delivery. Buyer shall unload and release to INVISTA the hopper cars within twelve (12) days after
+delivery at the Delivery Point. Buyer will pay INVISTA demurrage for each hopper car not released within twelve
+(12) days of delivery at the Delivery Point at the rate of $50/day and will be responsible for any damage to the hopper
+cars while in Buyer’s custody or control. Demurrage shall be accrued and billed by INVISTA to Buyer on a calendar
+quarterly basis with payment due 30 days after each invoice date. If Buyer fails to unload all Product, any remaining
+Product will be deemed to have been abandoned and will become the property of INVISTA. Buyer will not receive
+any consideration for any abandoned Product and Buyer shall pay any transportation, handling, and/or storage charges
+for such Product until it is received and accepted by INVISTA.
+
+5. Term. (a) The term of this Agreement commences on the Effective Date and will expire on June
+30, 2019 (the “Term”).
+(b) Early Termination. The Parties shall meet in May of 2018, to discuss changing the P, used to
+
+calculate the Price under Section 6, within the range of +/-US$75/MT, effective September 1, 2018. Ifthe Parties are
+DocuSign Envelope ID: D4D161EB-94C1-4D4F-9638-5231AD4BB3E0
+
+unable to agree on a new P,; then either Party may terminate this Agreement, effective August 31, 2018 by providing
+notice to the other Party prior to July 1, 2018.
+
+6. Price. (a) The price of the Product (the “Price’”) will be determined each calendar month and will
+be equal to an amount determined in accordance with the following formula:
+
+P = P. + 213 *(BZ) + 0.24 *(NH3) + 36 *(NG)
+
+Where:
+
+P = the price for Product in US$/MT (rounded to zero decimal places) for the current calendar month. Price may
+also be shown in US$ per pound (Ib), calculated by dividing the price in US$/MT by 2204.623 and rounding to the
+nearest two decimal places ($X.XX/Ib).
+
+P.= US$ 425/MT(fixed portion of formula)
+
+BZ = the U.S. monthly contract benzene price, in US dollars per gallon, as published in IHS Chemical (formerly
+CMAI) Aromatics Market Weekly for the month that is immediately prior to the current month, rounded to three
+decimal places.
+
+NHS3 = the price for ammonia as reported by FERTECON AMMONIA REPORT, under the heading, “FERTECON
+PRICE SERVICE”, “AMMONIA PRICE INDICATIONS”, Delivered Prices, “US Gulf/Tampa” — “Tampa”, as the
+average of the weekly prices published for the month that is two months prior to the current month, expressed in
+US$/MT for anhydrous ammonia, rounded to three decimal places.
+
+NG = the price for natural gas, in US dollars per one million BTUs, as reported by Intercontinental Exchange®
+(ICE) as the average “Month Ahead Index” price for the Houston Ship Channel — Houston Pipe Line Pool location
+for the month that is immediately prior to the current month, rounded to three decimal places.
+
+(b) Index Ranges. If any of the publications specify the price of any of the above items as a
+range, the reference price for adjusting the Price for Product, will be the average of the high and low published
+prices for each such item.
+
+(c) Pricing Example: The April 2016 Price under the terms of this Agreement would be
+$1013/MT (equal to approximately $0.459/Ib) if the following pricing inputs were used.
+
+Pricing Inputs:
+P, = $500/MT, BZ = $1.77/gallon, NH3 = $310/MT, NG = $1.71/mmbtu
+
+Pricing Calculation:
+P (US$/MT) = $500 + (213*$1.77) + (0.24*$310) + (36*$1.71)
+P = $1013/MT
+
+Ve Forecasts and Orders
+
+(a) Three Month Forecasts. Buyer shall provide to INVISTA, in writing and by the 10% day
+of each month of the Term, a rolling forecast by number of full hopper railcars (of approximately 85 tons of Product
+per railcar), of its anticipated needs for Product during the immediately following three month period (a “Three Month
+Forecast”; the first month of any Three Month Forecast, “Month 1”; the second month of any Three Month Forecast,
+“Month 2”; and the third month of any Three Month Forecast, “Month 3”). The quantity of Product designated for
+Month | of each Three Month Forecast will be no less than two full railcars of Product less than the forecasted quantity
+when such month was Month 2 and no more than the forecasted quantity when such month was Month 2(and in no
+event in excess of six (6) railcars unless agreed to by INVISTA). The Month 3 forecasted quantities for that same
+month shall represent a non-binding estimate of Buyer’s requirements for that month.
+
+(b) Orders. The quantity of Product designated for Month 1 will constitute a firm, binding and
+irrevocable obligation upon Buyer to purchase Product for the number of full hopper railcars shown for Month 1.
+Orders for the purchase of individual railcars of Product shall be placed by Buyer no less than 20 days prior to the
+DocuSign Envelope ID: D4D161EB-94C1-4D4F-9638-5231AD4BB3E0
+
+requested delivery date. No orders for purchase and delivery in any Month | will be final or binding on INVISTA,
+unless INVISTA has provided written notice to Buyer that INVISTA has confirmed or accepted such orders.
+
+8. INVISTA Purchase Quantity.
+
+(a) INVISTA Product Purchase. INVISTA shall have the right, but not the obligation to repurchase from Buyer not more than 500 MT of Product per calendar month (each, an “INVISTA Re-Purchase
+Quantity”) which Product will be repackaged by Buyer and resold in any package that Buyer resells Product to its
+customers.
+
+(b) Forecasting. By the 5" day of each calendar month during the Term, INVISTA shall
+provide Buyer with a forecast of the INVISTA Re-Purchase Quantity, in full truckloads, during each of the subsequent
+three months (each, an “INVISTA Purchase Forecast”). The first month of the INVISTA Purchase Forecast shall
+represent a binding and irrevocable obligation to purchase the number of truckloads stated in the forecast for that
+month +/- one truckload. The second and third months of the INVISTA Purchase Forecast shall represent a nonbinding estimate. Orders for the re-purchase of Product shall be placed by INVISTA no less than 25 days prior to the
+requested delivery date and will be binding on Buyer unless INVISTA fails to deliver the Product to be used by Buyer
+to satisfy its obligation to deliver the INIVSTA Re-Purchase Quantity. Confirmation or acceptance of such orders
+shall not be unreasonably withheld by Buyer.
+
+(c) Delivery. The INVISTA Re-Purchase Quantity will be delivered by Buyer to INVISTA
+FCA at the Delivery Point in full truck load quantities. Title, together with risk of loss, damage and contamination,
+to INVISTA Re-Purchase Quantity will pass from Buyer to INVISTA upon delivery by Buyer at the Delivery Point.
+
+(d) Price. The price of the INVISTA Re-Purchase Quantity will be the Price of Product for
+the current month, as set forth in Section 6+ $190/MT.
+
+(e) Invoice. Buyer shall submit an invoice to INVISTA for each shipment of the INVISTA
+Re-Purchase Quantity upon or after shipment.
+
+(f) Payment. INVISTA shall pay Buyer in US$ within thirty (30) days of the date of the
+invoice, provided that INVISTA may offset the amount due to Buyer from amounts INVISTA owes to Buyer under
+this Agreement. INVISTA will be responsible for interest at a rate of 1.5% per month, compounded monthly, or the
+maximum rate allowed by applicable Law, whichever is less, on any outstanding amount still due after the due date
+for such payment.
+
+(g) Warranty. Buyer warrants at the time of delivery and subject to the other terms and
+conditions of this Agreement, that (a) Buyer will redeliver the INVISTA Re-Purchase Quantity in the same condition
+and with the same specifications as the Product was delivered by INVISTA that was used to supply the INVISTA RePurchase Quantity, and (b) Buyer delivers to INVISTA good title to INVISTA Re-Purchase Quantity, free and clear
+of any liens or encumbrances.
+
+9. Additional Resale Provisions.
+
+(a) Repackaging. Buyer agrees it will resell and deliver the Product only in in small bags each
+bag not to exceed 1 MT of Product.
+
+(b) Reserved Market and Customers. INVISTA reserves to itself the exclusive right to offer
+and sell Product to the specified markets and customers set forth in Exhibit B and Buyer agrees not to sell or solicit
+the sale of Product purchased under this Agreement to those markets or customers listed in Exhibit B.
+
+10. Invoices, Payment and Credit.
+
+(a) Invoices. INVISTA shall submit a summary invoice to Buyer after the last shipment of the
+calendar month for Product delivered to Buyer during the month.
+
+(b) Payment. Buyer shall pay INVISTA in US$ within thirty (30) days of the date of the
+invoice (the “Payment Due Date”). Buyer will be responsible for interest at a rate of 1.5% per month, compounded
+monthly, or the maximum rate allowed by applicable Law, whichever is less (the “Default Interest Rate”), on any
+outstanding amount still due after the Payment Due Date.
+
+(c) Credit. INVISTA makes no guarantee of credit or the continuation of credit to Buyer. If
+INVISTA determines, in its sole discretion, that Buyer’s creditworthiness or future performance is impaired or
+unsatisfactory, INVISTA may upon 15 days prior written notice to Buyer (i) suspend deliveries of Product, (ii) require
+
+ 
+
