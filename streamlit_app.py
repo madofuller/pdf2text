@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
 import pytesseract
