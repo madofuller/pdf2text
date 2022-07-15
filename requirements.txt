@@ -4,3 +4,4 @@ Pillow==9.2.0
 pathlib==1.0.1
 streamlit==1.7.0
 pdfminer==20191125
+python-poppler==0.3.0
