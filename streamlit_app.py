@@ -36,11 +36,6 @@ if button and PDF_File is not None:
 				text = pytesseract.image_to_string(im)
 			output_text = output_text + '\n' + text
 
-		# save output text to file and show
-		#st.text_area(output_text)
-		#transcribed_file = open(PDF_File.name[:-4] + '.txt', "w")
-		#transcribed_file.write(output_text)
-		#transcribed_file.close()
 		flag_file_processed = True
 
 	if flag_file_processed:
