@@ -18,13 +18,13 @@ from io import StringIO
 title = st.title("Select folder of PDFs to convert to raw text")
 
 
-imagem_referencia = st.file_uploader("Choose an image", type=["pdf"])
+PDF_File = st.file_uploader("Choose an image", type=["pdf"])
 button = st.button("Confirm")
 
-if button and imagem_referencia is not None:
+if button and PDF_File is not None:
 
-	if imagem_referencia.type == "application/pdf":
-		images = pdf2image.convert_from_bytes(imagem_referencia.read())
+	if PDF_File.type == "application/pdf":
+		images = pdf2image.convert_from_bytes(PDF_File.read())
 		output_text = ''
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
@@ -36,4 +36,9 @@ if button and imagem_referencia is not None:
 			output_text = output_text + '\n' + text
 
 		# save output text to file and show
-		st.text_area(output_text)
+		#st.text_area(output_text)
+		transcribed_file = open(PDF_File.name[:-4] + '.txt', "w")
+		transcribed_file.write(output_text)
+		transcribed_file.close()
+		st.download_button("Download transcibed", transcribed_file)
+
