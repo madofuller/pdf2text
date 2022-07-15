@@ -3,10 +3,10 @@ import os
 import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
-from time import sleep
+import time
 import pytesseract
 from io import StringIO
-from stqdm import stqdm
+
 
 
 #title widget
@@ -26,8 +26,7 @@ if button and PDF_File is not None:
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
 			my_bar = st.progress(0)
-			for my_bar in stqdm(range(50), desc="This is a slow task", mininterval=1):
-				sleep(0.5)
+			with st.spinner('Extracting text from given PDF' + '\n' + 'Avgerage of 16 seconds per page'), st.progress([0-100]):
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
