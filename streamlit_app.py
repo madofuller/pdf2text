@@ -3,6 +3,7 @@ import os
 import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
+import time
 import pytesseract
 from io import StringIO
 
@@ -13,7 +14,7 @@ title = st.title("Select scanned PDF to convert to raw text")
 
 
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
-button = st.button("Convert")
+button = st.button("Convert", )
 flag_file_processed = False
 
 if button and PDF_File is not None:
@@ -24,7 +25,10 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
-			with st.spinner('Extracting text from given PDF' + '\n' + 'Avgerage of 16 seconds per page'), st.progress([0-100]):
+			my_bar = st.progress(0)
+			for percent_complete in range(100):
+				time.sleep(0.1)
+				my_bar.progress(percent_complete + 1)
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
