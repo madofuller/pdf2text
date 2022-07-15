@@ -37,8 +37,8 @@ if button and PDF_File is not None:
 
 		# save output text to file and show
 		#st.text_area(output_text)
-		transcribed_file = open(PDF_File.name[:-4] + '.txt', "w")
-		transcribed_file.write(output_text)
+		#transcribed_file = open(PDF_File.name[:-4] + '.txt', "w")
+		#transcribed_file.write(output_text)
 		#transcribed_file.close()
-		st.download_button("Download transcibed", transcribed_file)
+		st.download_button("Download transcibed", output_text)
 
