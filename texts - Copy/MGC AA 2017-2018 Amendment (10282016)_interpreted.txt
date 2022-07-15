@@ -1,0 +1,203 @@
+AMENDMENT No. I
+TO
+ADI-PURE® ADIPIC ACID SALES AGREEMENT
+
+This Amendment No. 1 (this “Amendment No.1”) to the Adi-pure® Adipic Acid Sales
+
+Agreement is made and entered as of January 1 2017, between INVISTA S.a 1.1. (“Seller”) and MGC
+Advanced Polymers (“Buyer”).
+
+A. Seller and Buyer are parties to that certain Purchase Agreement for Raw Materials, made
+and entered into as of January 1, 2014 (the “Sales Agreement”); and
+
+B. Seller and Buyer desire to amend the Sales Agreement.
+NOW THEREFORE, Seller and Buyer hereby amend the Agreement as follows:
+
+1. Amendment of Section 1 (Term). Section 1 of the Sales Agreement is hereby deleted and
+replaced in its entirety as follows:
+
+“This Agreement will commence on January 1, 2014 (the “Effective Date”)
+and will continue up to and including December 31, 2018 (the “Term”).
+
+2. Amendment of Section 3 (Quantity). Section 3 of the Sales Agreement is hereby
+
+amended to add the following new subsections (d) and (e) as follows:
+
+(d) Minimum Purchase Quantities.
+
+During the 2017 and 2018 calendar years and subject to Section 7,
+Buyer shall order and purchase from Seller the minimum percentages
+of Buyer’s annual requirement for adipic acid for each such calendar
+year (Buyer’s Annual Requirements”) and of Buyer’s requirements for
+adipic acid for each calendar quarter during such year (“Buyer's
+__ Quarterly Requirements”) as set forth below:
+
+  
+     
+
+    
+
+Kereuritay ANGE 2018
+
+| Minimum Annual Quantity 65% of Buyer s Annual Requirements
+Minimum Quarterly Quantity 50% of Buyer's Quarterly Requirements
+
+(e) Maximum Purchase Quantities.
+
+During the 2017 and 2018 calendar years, Seller shall sell to Buyer up
+to the maximum quantities of Product (the “Maximum Quantities”) set
+forth in the table below. Seller, at its sole option, however, may elect
+to sell quantities of Product to Buyer in excess of the Maximum
+Quantities.
+
+ 
+    
+
+Quantity 2017-2018
+
+| Madiaom Annual Quantity 4,000 Metric Tons per Year
+Maximum Monthly Quantity 400 Metric Tons per Month
+
+ 
+  
+Amendment of Section 7 (Meet or Release). Section 7 of the Sales Agreement is hereby
+
+deleted and replaced in its entirety as follows:
+
+Commencing on January 1, 2017 and for each month in which Buyer has purchased from
+Seller more than 50% of Buyer’s requirement for adipic acid for such month (the
+“Monthly Requirement”), then Buyer may request Seller to meet the bona fide contract
+delivered price of an unaffiliated, third party contract supplier (an “Alternate Supplier”
+
+of adipic acid by delivering to Seller written notice of such competitive offer by the
+Alternate Supplier, including the price and delivery terms (the “Competitive Offer’).
+Seller shall, within 5 business days of receiving the Competitive Offer from Buyer,
+either meet the terms and conditions of the Competitive Offer, or release Buyer to
+purchase adipic acid from the Alternate Supplier (but only for volumes in excess of the
+Monthly Requirement). If the Alternate Supplier is a U.S. producer of Adipic Acid, then
+the Competitive Offer must be quoted on the same timing basis for raw materials as that
+of Seller under this Agreement. For example, if Seller’s contract price is based on raw
+materials prices of indexes all of which are lagged to the previous calendar month, then
+the Alternate Supplier’s Competitive Offer must also be based on raw materials prices of
+the previous calendar month.
+
+Amendment of Appendix A Section 5 (Deliveries). Section 5 of Appendix A of the Sales
+
+Agreement is hereby amended to add subsection (h) as follows:
+
+(h) Subject to all parts contained in this Agreement relating to the delivery, handling, and
+unloading of Product, Seller will discuss with Buyer, at Buyer’s reasonable request,
+potential Product unloading issues of Buyer and possible steps to mitigate such issues.
+Buyer is solely responsible for offloading Product at Buyer’s facility, and nothing herein
+obligates INVISTA to release Buyer from any obligations contained in this agreement.
+
+Amendment of Appendix II (Product Pricing and Pricing Changes). Appendix II of the
+
+Sales Agreement is hereby amended to add the following subsection (a) as follows:
+
+(a) Price: For calendar years 2017 and 2018, The Selling Price (P) for
+Product will be determined each calendar month, with monthly price
+notifications sent from Seller to Buyer. The Selling Price will be
+determined using the following formula:
+
+P = Pc + 229 *(BZ) + 0.27 *(NH3) + 38 *(NG)
+
+Where:
+P = the price at which Product will be purchased by Buyer, and sold by
+Seller, in U.S. dollars per metric ton for the current calendar month (the
+“Selling Price”).
+
+Pe Tier 1 = 0 ~ 2,500 MT per Calendar Year = US$700 per metric ton
+Pe Tier 2 = 2,500 — 4,000MT per Calendar Year = US$650 per metric ton
+
+BZ = the U.S. monthly contract benzene price, in US dollars per gallon,
+as published in THS Chemical (formerly CMAI) Aromatics Market
+Weekly for the month immediately preceding the month product is
+shipped, unrounded.
+
+NH3 = the price for ammonia as reported by FERTECON AMMONIA
+REPORT, under the heading, “FERTECON PRICE SERVICE”,
+
+2
+“AMMONIA PRICE INDICATIONS”, Delivered Prices, “US
+Gulf/Tampa” - “Tampa”, as the average of the weekly prices published
+for the month that is two months prior to the month product is shipped,
+expressed in US$ per metric ton for anhydrous ammonia, rounded to three
+decimal places.
+
+NG = the price for natural gas, in US$ per one million BTUs, as reported
+by Intercontinental Exchange® (ICE) as the average “Month Ahead
+Index” price for the Houston Ship Channel - Houston Pipe Line Pool
+location for the month immediately preceding the month product is
+shipped, unrounded.
+
+(a) Ifthe benzene, natural gas and/or ammonia publications specify the price
+as a range, the reference price for adjusting the price for Product, will be
+the average of the high and low published prices.
+
+(b) Pricing Example: The July 2016 Adipic Acid price for Bulk Trucks
+(delivered to Buyer’s facility) under the terms proposed in this agreement
+would be $1,315/metric ton ($0.596/Ib).
+
+Tier 1 Pricing Example Inputs:
+Pc = $700/ton BZ = §$2.00/gallon, NH3 = $317.00/ton, NG =
+$1.87/mmbtu
+
+Tier 1 Pricing Example Calculation:
+
+P ($/mt) = $700 + (229*$2.00) + (0.27*$3 17.00) + (38*$1.87)
+P = $700 + 458.00 + 85.59 + 71.06
+
+P = $1,315/mt (approximately $0.596/lb)”
+
+Certain Defined Terms. Capitalized terms used, but not otherwise defined in this
+Amendment No. I, have the meanings ascribed to them in the Sales Agreement.
+
+Ratification and Authority. The Sales Agreement, as amended by this Amendment No. 1,
+is hereby ratified and, except as expressly modified by this Amendment No. 1, remains in
+full force and effect. Each of Seller and Buyer possesses all requisite corporate power
+and authority to enter into this Amendment No. 1 and ratify the Sales Agreement, as
+amended by this Amendment No. 1. The Sales Agreement and this Amendment No. 1
+have been duly executed and delivered by each of Seller and Buyer.
+
+Governing Law and Dispute Resolution. This Amendment No. 1 will be governed by
+and construed in accordance with Section 18 of the Terms and Conditions of Sale
+attached as Exhibit A of the Sales Agreement, and any dispute arising out of, relating to
+or in connection with this Amendment No. 1, including the breach, termination or
+validity hereof, will be resolved in accordance with Section 18 of the Terms and
+Conditions of Sale attached as Exhibit A of the Sales Agreement.
+
+Counterparts and Electronic Copies. This Amendment No.1 may be executed in
+counterparts or duplicate originals, all of which will be regarded as one and the same
+instrument, and which will be the official and governing version in the interpretation of
+this Amendment No. 1. This Amendment No. | may be executed by facsimile signatures
+or signatures by electronic transmission, and such signatures will be deemed to bind each
+of Seller and Buyer as if they were original signatures.
+
+[Signature Page Follows]
+
+3
+IN WITNESS WHEREOF, each of Seller and Buyer has caused this Amendment No. 1 to be
+executed and delivered by its duly authorized representative as of the date first above written.
+
+Seller:
+
+   
+
+INVISTA S.ar.l.
+By:
+
+Name:
+
+Title: Bradley Cole
+Authorized Signatory
+
+Buyer:
+MGC Advanced Polymers
+
+By:
+
+Name: Susanna (Mal Spann. Chee!
+
+tits CL) Ss (2288 (Cen toler
+
