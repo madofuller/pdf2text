@@ -43,5 +43,5 @@ if button and PDF_File is not None:
 		#transcribed_file.close()
 		flag_file_processed = True
 
-if flag_file_processed:
-	st.download_button("Download transcibed", output_text)
+	if flag_file_processed:
+		st.download_button("Download transcibed", output_text)
