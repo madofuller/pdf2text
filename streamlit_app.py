@@ -25,6 +25,7 @@ if button and imagem_referencia is not None:
 
 	if imagem_referencia.type == "application/pdf":
 		images = pdf2image.convert_from_bytes(imagem_referencia.read())
+		output_text = ''
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
@@ -32,4 +33,7 @@ if button and imagem_referencia is not None:
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
-		st.text_area(text)
+			output_text = output_text + '\n' + text
+
+		# save output text to file and show
+		st.text_area(output_text)
