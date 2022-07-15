@@ -10,11 +10,16 @@ from io import StringIO
 
 
 #title widget
-title = st.title("Select scanned PDF to convert to raw text")
+title = st.title("Select folder of PDFs to convert to raw text")
 
 
+<<<<<<< HEAD
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
 button = st.button("Convert", )
+=======
+PDF_File = st.file_uploader("Choose an image", type=["pdf"])
+button = st.button("Confirm")
+>>>>>>> parent of 6a89352 (Complete rough draft commit)
 flag_file_processed = False
 
 if button and PDF_File is not None:
@@ -25,8 +30,12 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
+<<<<<<< HEAD
 			my_bar = st.progress(0)
 			with st.spinner('Extracting text from given PDF' + '\n' + 'Avgerage of 16 seconds per page'):
+=======
+			with st.spinner('Extracting Text from given Image'):
+>>>>>>> parent of 6a89352 (Complete rough draft commit)
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
