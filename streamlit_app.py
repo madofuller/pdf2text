@@ -1,15 +1,8 @@
 import streamlit as st
 import os
-import time
-import platform
-from tempfile import TemporaryDirectory
-from pathlib import Path
-import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
 import pytesseract
-from tempfile import TemporaryDirectory
-
 from io import StringIO
 
 
