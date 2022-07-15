@@ -4,8 +4,6 @@ import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
 import pytesseract
-import io
-import time
 
 
 
@@ -25,10 +23,7 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
-			my_bar = st.progress(0)
-			for percent_complete in range(100):
-				time.sleep(0.1)
-				my_bar.progress(percent_complete + 1)
+			with st.spinner('Extracting text from given PDF'):
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
