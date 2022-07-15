@@ -20,6 +20,7 @@ title = st.title("Select folder of PDFs to convert to raw text")
 
 PDF_File = st.file_uploader("Choose an image", type=["pdf"])
 button = st.button("Confirm")
+flag_file_processed = False
 
 if button and PDF_File is not None:
 
@@ -40,5 +41,7 @@ if button and PDF_File is not None:
 		#transcribed_file = open(PDF_File.name[:-4] + '.txt', "w")
 		#transcribed_file.write(output_text)
 		#transcribed_file.close()
-		st.download_button("Download transcibed", output_text)
+		flag_file_processed = True
 
+if flag_file_processed:
+	st.download_button("Download transcibed", output_text)
