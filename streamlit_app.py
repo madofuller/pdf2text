@@ -3,10 +3,10 @@ import os
 import pdf2image
 from pdf2image import convert_from_path
 from PIL import Image
-import time
+from time import sleep
 import pytesseract
 from io import StringIO
-
+from stqdm import stqdm
 
 
 #title widget
@@ -26,9 +26,8 @@ if button and PDF_File is not None:
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
 			my_bar = st.progress(0)
-			for percent_complete in range(100):
-				time.sleep(0.1)
-				my_bar.progress(percent_complete + 1)
+			for my_bar in stqdm(range(50), desc="This is a slow task", mininterval=1):
+				sleep(0.5)
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
