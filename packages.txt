@@ -2,3 +2,4 @@ tesseract-ocr
 cmake
 libpoppler-cpp-dev
 poppler-utils
+stqdm
