@@ -32,4 +32,5 @@ if button and imagem_referencia is not None:
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
-				print (text)
+				st.text_area(text)
+				
