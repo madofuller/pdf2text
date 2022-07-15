@@ -25,10 +25,13 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
-			my_bar = st.progress(0)
-			for percent_complete in range(100):
-				time.sleep(0.1)
-				my_bar.progress(percent_complete + 1)
+			latest_iteration = st.empty()
+			bar = st.progress(0)
+			num = 20
+			for i in range(num):
+				latest_iteration.text(f'{num - i} seconds left')
+				bar.progress((100//num)*i)
+				time.sleep(1)
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
