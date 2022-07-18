@@ -11,7 +11,6 @@ import pytesseract
 title = st.title("Select scanned PDF to convert to raw text")
 
 
-
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
 button = st.button("Convert")
 flag_file_processed = False
@@ -20,7 +19,7 @@ if button and PDF_File is not None:
 
 	if PDF_File.type == "application/pdf":
 		images = pdf2image.convert_from_bytes(PDF_File.read())
-		output_text = (f"{PDF_File.name:03}.txt")
+		output_text = ''
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
@@ -28,7 +27,7 @@ if button and PDF_File is not None:
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
-			output_text = output_text + '\n' + text
+			#output_text = output_text + '\n' + text
 
 		flag_file_processed = True
 
