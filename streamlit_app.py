@@ -24,7 +24,7 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
-			with st.spinner(f'Extracting text from given PDF: page_{page_enumeration:03}'):
+			with st.spinner(f'Extracting text from given PDF: page_{page_enumeration:03} of {len(images)}'):
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
