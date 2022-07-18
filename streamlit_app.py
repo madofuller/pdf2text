@@ -20,7 +20,7 @@ if button and PDF_File is not None:
 
 	if PDF_File.type == "application/pdf":
 		images = pdf2image.convert_from_bytes(PDF_File.read())
-		output_text = f"{PDF_File:03}.txt"
+		output_text = f"{PDF_File.name:03}.txt"
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
