@@ -27,9 +27,9 @@ if button and PDF_File is not None:
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
-			output_text = output_text + '\n' + text
+			output_text = output_text + text + '\n'
 
 		flag_file_processed = True
 
 	if flag_file_processed:
-		st.download_button("Download transcibed", output_text)
+		st.download_button("Download transcibed", output_text, file_name=f'{page_enumeration:03}.txt')
