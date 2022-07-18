@@ -32,5 +32,4 @@ if button and PDF_File is not None:
 		flag_file_processed = True
 
 	if flag_file_processed:
-		file_name = PDF.File:03
-		st.download_button("Download transcibed", output_text, file_name = (file_name)'.txt')
+		st.download_button("Download transcibed", output_text)
