@@ -24,14 +24,14 @@ if button and PDF_File is not None:
 		for page_enumeration, page in enumerate(images, start=1):
 			filename = f"page_{page_enumeration:03}.jpg"
 			page.save(filename, "JPEG")
-			with st.spinner('Extracting text from given PDF'):
+			with st.spinner(f'Extracting text from given PDF: page_{page_enumeration:03}'):
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
 			output_text = output_text + text + '\n'
 
 		flag_file_processed = True
-		text_file_name = PDF_File.name + '.txt'
+		text_file_name = PDF_File.name[:-4] + '.txt'
 
 	if flag_file_processed:
 		st.download_button("Download transcibed", output_text, file_name=text_file_name)
