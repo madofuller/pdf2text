@@ -12,6 +12,7 @@ title = st.title("Select scanned PDF to convert to raw text")
 
 
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
+text_file_name = 'unnamed_file'
 button = st.button("Convert")
 flag_file_processed = False
 
@@ -30,6 +31,7 @@ if button and PDF_File is not None:
 			output_text = output_text + text + '\n'
 
 		flag_file_processed = True
+		text_file_name = PDF_File.name + '.txt'
 
 	if flag_file_processed:
-		st.download_button("Download transcibed", output_text)
+		st.download_button("Download transcibed", output_text, file_name=text_file_name)
