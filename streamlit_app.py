@@ -10,10 +10,12 @@ import pytesseract
 #title widget
 title = st.title("Select scanned PDF to convert to raw text")
 
+col1, col2, col3 = st.beta_columns(3)
 
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
-button = st.button("Convert")
-flag_file_processed = False
+with col3:
+	button = st.button("Convert")
+	flag_file_processed = False
 
 if button and PDF_File is not None:
 
@@ -32,4 +34,5 @@ if button and PDF_File is not None:
 		flag_file_processed = True
 
 	if flag_file_processed:
-		st.download_button("Download transcibed", output_text)
+		with col3:
+			st.download_button("Download transcibed", output_text)
