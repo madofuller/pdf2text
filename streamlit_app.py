@@ -27,7 +27,7 @@ if button and PDF_File is not None:
 				image_file = (filename)
 				im = Image.open(image_file)
 				text = pytesseract.image_to_string(im)
-			#output_text = output_text + '\n' + text
+			output_text = output_text + '\n' + text
 
 		flag_file_processed = True
 
