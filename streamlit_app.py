@@ -10,7 +10,7 @@ import pytesseract
 #title widget
 title = st.title("Select scanned PDF to convert to raw text")
 
-col1, col2, col3 = st.beta_columns(3)
+col1, col2, col3 = st.columns(3)
 
 PDF_File = st.file_uploader("Choose PDF file", type=["pdf"])
 with col3:
